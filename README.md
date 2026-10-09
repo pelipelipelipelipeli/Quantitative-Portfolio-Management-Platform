@@ -12,27 +12,6 @@ I'm an aspiring FinTech engineer interested in low-latency systems, financial al
 
 ---
 
-### 🛠️ Tech Stack & Concepts
-
-**Core Languages:**
-`C++` · `C` · `JavaScript` · `HTML5` · `CSS3`
-
-**FinTech & Computer Science Focus:**
-`Data Structures & Algorithms` · `Object-Oriented Design` · `Financial Math` · `Memory Management`
-
-**Developer Tools:**
-`Git` · `GitHub` · `GCC/Clang` · `VS Code` · `GitHub Pages`
-
----
-
-### 📂 FinTech Projects
-
-| Project | Description | Tech Used |
-| :--- | :--- | :--- |
-| **[C++ Compound Interest & Investment Calculator](https://github.com/your-username/repo-name)** | A CLI tool that simulates portfolio growth with compound interest and custom contribution schedules. | C++17 |
-| **[FinTech Web Dashboard](https://your-username.github.io)** | Personal portfolio and financial dashboard landing page hosted on GitHub Pages. | HTML, CSS, JavaScript |
-
----
 
 ### 📬 Connect With Me
 - **LinkedIn:** https://www.linkedin.com/in/felicia-farras-s-5a10b73a3?utm_source=share_via&utm_content=profile&utm_medium=member_android 
