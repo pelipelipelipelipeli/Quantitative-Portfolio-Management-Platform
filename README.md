@@ -1,18 +1,40 @@
-# Hi there, I'm Feli! 👋
+# Portfolio Management and Optimization
 
-I'm an aspiring FinTech engineer interested in low-latency systems, financial algorithms, and modern web interfaces. I build tools at the intersection of finance and software engineering.
+## Overview
+This project uses Python and historical stock market data to compare portfolio allocations and explore portfolio optimization based on risk and return.
 
----
+## Objectives
+- Analyze historical stock prices.
+- Compare portfolio performance.
+- Optimize asset allocations.
+- Evaluate portfolio risk and return.
+- Visualize portfolio weights and performance.
 
-### About Me
-- 🫂 **Currently working on:** C++ command-line financial tools and data structure implementations.
-- 📚 **Currently learning:** C++20, Object-Oriented Programming (OOP), Data Structures & Algorithms, and web development basics.
-- 💡 **FinTech Focus:** Quantitative concepts, trading system architecture, and financial data processing.
-- 🎯 **Goal:** Build robust financial tools, contribute to open-source software, and pursue a role in FinTech engineering.
+## Tools and Technologies
+- Python
+- Google Colab
+- Yahoo Finance
+- yfinance
+- NumPy
+- Pandas
+- Matplotlib
 
----
+## Methodology
+1. Retrieve historical stock price data.
+2. Calculate asset returns and statistics.
+3. Construct and compare portfolios.
+4. Optimize portfolio asset weights.
+5. Evaluate performance using financial metrics.
+6. Visualize portfolio allocations and performance.
 
+## Key Results
+- Optimized asset allocations.
+- Portfolio performance comparisons.
+- Risk and return metrics.
+- Portfolio performance charts.
 
-### 📬 Connect With Me
-- **LinkedIn:** https://www.linkedin.com/in/felicia-farras-s-5a10b73a3?utm_source=share_via&utm_content=profile&utm_medium=member_android 
-- **Email:** flcsltn@gmail.com
+## Purpose
+This project helped me develop practical skills in quantitative finance, portfolio construction, risk analysis, and Python-based financial modeling.
+
+## Disclaimer
+This project is for educational purposes only and does not constitute financial advice.
